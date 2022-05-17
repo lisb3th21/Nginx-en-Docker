@@ -1,7 +1,10 @@
 <img src="img/nginx.png" height="100" >
-<details close>
 
 # Nginx en Docker
+
+<details close>
+
+
 
 <summary>  NGINX </summary>
 
