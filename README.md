@@ -24,6 +24,8 @@ FROM nginx:latest
 COPY * /usr/share/nginx/html/
 ```
 
+El comanfo `FROM` descargara la imágen más reciente de *Nginx*. El comando `COPY` copia nuevos archivos o directorios desde <src> y los agrega al sistema de archivos del contenedor en la ruta <dest>.
+
 > He hecho algunos cambios en el Dockerfile presentado en la guia del docente porque en mi .html hago uso de imágenes y hoja de estilo. 
 
 Quedando un árbol de directorios así: 
